@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sadisu_501
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate with light mibds
+- 💞️ I’m looking to collaborate with light minds 
 - 📫 How to reach me sadisukelvin@gmail.com 
 
 <!---
